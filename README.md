@@ -3,7 +3,7 @@
 
 Python notebooks, compiled on Google Colab using local resources with RTX-4090
 
-[Read full paper] https://github.com/carlomerola/Late-Contextual-RAG_/blob/main/keir_2025_CarloMerola_Jaspinder%20Singh.pdf
+[Read full paper](https://github.com/carlomerola/Late-Contextual-RAG_/blob/main/keir_2025_CarloMerola_Jaspinder%20Singh.pdf)
 
 
 # © Authors
