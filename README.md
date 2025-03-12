@@ -8,7 +8,7 @@ Python notebooks, compiled on Google Colab using local resources with RTX-4090
 
 # © Authors
 
-[Carlo Merola](https://github.com/carlomerola?tab=repositories)
+[Carlo Merola](https://github.com/carlomerola?tab=repositories),
 [Jaspinder Singh](https://github.com/Singh8899)
 </br>
 *2025©*
